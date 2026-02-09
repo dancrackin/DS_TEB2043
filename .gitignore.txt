@@ -1,0 +1,2 @@
+# --- Exclude Lab A Files ---
+*a*.R
