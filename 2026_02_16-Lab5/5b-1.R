@@ -1,3 +1,5 @@
+# check whether a year is leap year or not
+
 year <- readline(prompt = "Input year: ")
 
 if (as.integer(trimws(year)) %% 4 == 0)
