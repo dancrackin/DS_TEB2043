@@ -1,5 +1,6 @@
 # --- R Session Files ---
 .Rhistory
+.RData
 
 # --- Exclude Lab A Files ---
 /Practice
